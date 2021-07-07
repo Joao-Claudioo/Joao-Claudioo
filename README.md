@@ -9,10 +9,10 @@
 ### Hellooo! 🖖 Welcome to my profile
 
 **Linguagens já vivenciadas**
-HTML5
-CSS
-PHP
-JavaScript
-JavaWeb
-C
-Flutter
+-HTML5
+-CSS
+-PHP
+-JavaScript
+-JavaWeb
+-C
+-Flutter

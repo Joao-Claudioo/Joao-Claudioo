@@ -1,5 +1,9 @@
 ### Hellooo! 🖖 Welcome to my profile
 
+Meu nome é João Claudio🧑🇧🇷
+
+Atualmente faço técnico em informática, programo desde 2019
+
 # João Claudio Marques Filho :man_technologist:
 
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 

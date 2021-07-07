@@ -7,8 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
 [![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
 
-## Create files and folders
-**Linguagens já vivenciadas**
+**Linguagens Conhecidas:**
 HTML5
 CSS
 PHP

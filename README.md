@@ -1,6 +1,5 @@
 ### Hellooo! 🖖 Welcome to my profile
 
-- 📍 Brazil - RS
 # João Claudio Marques Filho :man_technologist:
 
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 

@@ -17,9 +17,9 @@ Estudo programação desde o início de 2020 e nunca mais parei.
 - PHP
 - JavaScript
 - JavaWeb
-- Flutter
+- Dart
 
-**📚Pretendo Aprender:**
+**📚Estudos futuros:**
 - C
 - C++
 - C#

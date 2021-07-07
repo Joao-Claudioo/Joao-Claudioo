@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # João Claudio Marques Filho :man_technologist:
 
 
-### Hellooo! Welcome to my profile
+### Hellooo! 🖖 Welcome to my profile
 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with be better

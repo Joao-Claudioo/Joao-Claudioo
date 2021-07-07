@@ -1,9 +1,11 @@
 ### Hellooo! 🖖 Welcome to my profile
 
 # João Claudio Marques Filho :man_technologist:
-Meu nome é João Claudio e tenho 17 anos🧑🇧🇷
+Meu nome é João 17 anos🧑🇧🇷
 
-Atualmente faço técnico em informática, programo desde o início de 2020
+Atualmente faço técnico em informática.
+
+Estudo programação desde o início de 2019 e desde lá me apaixonei.
 
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 

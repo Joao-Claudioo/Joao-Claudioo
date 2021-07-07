@@ -8,8 +8,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
 
 **Linguagens Conhecidas:**
-HTML5
-CSS
+- HTML5
+- CSS
 PHP
 JavaScript
 JavaWeb

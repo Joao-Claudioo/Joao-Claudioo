@@ -8,7 +8,11 @@
 
 ### Hellooo! 🖖 Welcome to my profile
 
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with be better
-- 💬 Ask me about anything
-- 📫 How to reach me: joao10claudo@gmail.com
+**Linguagens já vivenciadas**
+HTML5
+CSS
+PHP
+JavaScript
+JavaWeb
+C
+Flutter

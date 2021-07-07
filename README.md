@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 
-[![Linkedin Badge](https://img.shields.io/badge/-joão claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
 
 # João Claudio Marques Filho :man_technologist:
 

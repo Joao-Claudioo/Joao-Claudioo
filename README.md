@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # João Claudio Marques Filho :man_technologist:
-[![Linkedin Badge](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)
+[![Linkedin](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)
 
 ### Hellooo! Welcome to my profile

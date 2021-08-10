@@ -3,7 +3,7 @@
 # João Claudio Marques Filho :man_technologist:
 Meu nome é João, tenho 17 anos🧑🇧🇷
 
-Atualmente faço técnico em informática.
+Atualmente curso Técnico em Informática para Internet
 
 Amo tecnologia desde pequeno, porém estudo programação desde 2019
 

@@ -1,7 +1,7 @@
 ### Hellooo! 🖖 Welcome to my profile
 
 # João Claudio Marques Filho :man_technologist:
-Meu nome é João, tenho 17 anos🧑🇧🇷
+Meu nome é João, tenho 18 anos🧑🇧🇷
 
 Atualmente curso Técnico em Informática para Internet
 

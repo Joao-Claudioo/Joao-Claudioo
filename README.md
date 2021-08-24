@@ -5,6 +5,11 @@
 <ul>
   <li>
     <p>
+      Atualmente curso Técnico em Informática para Internet
+    </p>
+  </li>
+  <li>
+    <p>
       ✨ Atualmente não trabalho na área de programação, acabei de iniciar meus estudos na área, na verdade.
     </p>
   </li>

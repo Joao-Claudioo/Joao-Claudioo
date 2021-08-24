@@ -31,13 +31,10 @@
   <img align="center" alt="Hen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="bad" width="100px" src="https://tenor.com/view/cc-gif-22770112">
+  <img align="right" alt="bad" width="100px" src="https://cdn.discordapp.com/attachments/877043925649604631/877695275857231932/5k1ngw.gif">
 </div>
   
 ##
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
 [![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
- 
-![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
-

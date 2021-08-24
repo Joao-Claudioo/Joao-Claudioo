@@ -24,20 +24,6 @@
     </p>
    </li>
  </ul>
-
- *💻Linguagens Conhecidas:* 
-- HTML5
-- CSS
-- PHP
-- JavaScript
-- JavaWeb
-- Dart
-*📚Estudos futuros:*
-- C
-- C++
-- C#
-- Python
-
  <div>
   <a href="https://github.com/Joao-Claudioo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Claudioo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -57,3 +43,18 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
 [![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
+  
+*💻Linguagens Conhecidas:* 
+- HTML5
+- CSS
+- PHP
+- JavaScript
+- JavaWeb
+- Dart
+  
+*📚Estudos futuros:*
+- C
+- C++
+- C#
+- Python
+

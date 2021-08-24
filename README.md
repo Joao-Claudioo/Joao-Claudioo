@@ -5,7 +5,7 @@
 <ul>
   <li>
     <p>
-      Atualmente curso Técnico em Informática para Internet
+      💻 Atualmente curso Técnico em Informática para Internet
     </p>
   </li>
   <li>

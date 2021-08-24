@@ -30,7 +30,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Claudioo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Claudioo&layout=compact&langs_count=7&theme=default"/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Joao-Claudioo&color=green" alt="amaraldemelloh"/>
 <div>
   <h3> Front-end </h3>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,11 +38,14 @@
  <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="right" alt="bad" width="100px" src="https://cdn.discordapp.com/attachments/877043925649604631/877695275857231932/5k1ngw.gif">
 </div>
-<h3> Desenvolvimento Mobile </h3>  
-
   
-
+<h3> Desenvolvimento Mobile </h3>  
  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
+
+<h3> Visitantes </h3>  
+ <div>
+  <img src="https://komarev.com/ghpvc/?username=Joao-Claudioo&color=green" alt="amaraldemelloh"/>
+ </div>
   
 ##
 [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 

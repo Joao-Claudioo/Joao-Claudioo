@@ -29,7 +29,6 @@
   <a href="https://github.com/Joao-Claudioo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaraldemelloh&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact&langs_count=7&theme=default"/>
-  <img src="https://komarev.com/ghpvc/?username=Joao-Claudioo&color=green" alt="Joao-Claudioo"/>
 </div>
   
 <div>

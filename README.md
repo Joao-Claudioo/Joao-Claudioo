@@ -37,9 +37,9 @@
 ##
   
 <div>
-  <a href="mailto:amaraldemelloh@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="/Faggot#9707/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-amaral-de-mello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ [![Twitter Badge](https://img.shields.io/badge/-@Joao_oOtaku-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Joao_oOtaku)](https://twitter.com/Joao_oOtaku) 
+[![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-[![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
+
   
   ![Snake animation](https://github.com/amaraldemelloh/amaraldemelloh/blob/output/github-contribution-grid-snake.svg)
   

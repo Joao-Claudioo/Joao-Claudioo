@@ -52,7 +52,7 @@
   
 <h3> Visitantes </h3>  
  <div>
-  <img src="https://komarev.com/ghpvc/?username=Joao-Claudioo&color=green" alt="amaraldemelloh"/>
+  <img src="https://komarev.com/ghpvc/?username=Joao-Claudioo&color=green" alt="Joao-Claudioo"/>
 </div>
   
 ##

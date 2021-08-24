@@ -31,7 +31,7 @@
   <img align="center" alt="Hen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="bad" width="100px" src="https://cdn.discordapp.com/attachments/877043925649604631/877695275857231932/5k1ngw.gif">
+  <img align="right" alt="bad" width="100px" src="https://tenor.com/view/discord-discord-app-xbts-exchange-discord-unnamed-exchange-discord-pirate-cash-exchange-discord-gif-16392811">
 </div>
   
 ##

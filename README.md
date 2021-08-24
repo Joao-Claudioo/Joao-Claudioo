@@ -29,9 +29,6 @@
   <a href="https://github.com/Joao-Claudioo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaraldemelloh&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact&langs_count=7&theme=default"/>
-  <img align="center" alt="Visual Studio" height="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-    original.svg">
-<img align="center" alt="android studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">
  </div>
   
   <div>

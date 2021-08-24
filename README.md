@@ -1,4 +1,4 @@
-### Opa! Meu nome é João Claudio. E o seu?
+### Opa! Meu nome é João Claudio. E o seu? :man_technologist:
 
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">

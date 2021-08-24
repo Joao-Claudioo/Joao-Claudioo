@@ -27,17 +27,8 @@
  
  <div>
   <a href="https://github.com/Joao-Claudioo">
-  <h3> Front-end </h3>
-
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-
- <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-
- <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaraldemelloh&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaraldemelloh&layout=compact&langs_count=7&theme=default"/>
 </div>
   <img src="https://komarev.com/ghpvc/?username=amaraldemelloh&color=green" alt="amaraldemelloh"/>
 <div>
@@ -52,7 +43,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Joao%20Claudio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/)](https://www.linkedin.com/in/jo%C3%A3o-claudio-5a474516b/) 
 [![Gmail Badge](https://img.shields.io/badge/-joao10claudo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao10claudo@gmail.com)](mailto:joao10claudo@gmail.com)
   
-*💻Linguagens Conhecidas:* 
+💻Linguagens Conhecidas: 
 - HTML5
 - CSS
 - PHP
@@ -60,9 +51,8 @@
 - JavaWeb
 - Dart
   
-*📚Estudos futuros:*
+📚Estudos futuros:
 - C
 - C++
 - C#
 - Python
-

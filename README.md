@@ -5,12 +5,12 @@
 <ul>
   <li>
     <p>
-      💻 Atualmente curso Técnico em Informática para Internet
+      💻 Atualmente curso Técnico em Informática para Internet.
     </p>
   </li>
   <li>
     <p>
-      ✨ Atualmente não trabalho na área de programação, acabei de iniciar meus estudos na área, na verdade.
+      ✨ Amo tecnologia desde pequeno, inicie na programação por volta de 2019.
     </p>
   </li>
   <li>

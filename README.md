@@ -24,6 +24,7 @@
     </p>
    </li>
  </ul>
+ <div>
  *💻Linguagens Conhecidas:*
 - HTML5
 - CSS
@@ -37,6 +38,7 @@
 - C++
 - C#
 - Python
+</div>
  <div>
   <a href="https://github.com/Joao-Claudioo">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Claudioo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>

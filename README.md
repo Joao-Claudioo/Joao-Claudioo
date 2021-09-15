@@ -67,9 +67,9 @@
 - JavaScript
 - JavaWeb
 - Dart
+- C 
   
 📚Estudos futuros:
-- C
 - C++
 - C#
 - Python

@@ -66,7 +66,7 @@
 - PHP
 - JavaScript
 - JavaWeb
-- Dart
+- Flutter
 - C 
   
 📚Estudos futuros:

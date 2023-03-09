@@ -1,5 +1,7 @@
 ### Opa! Meu nome é João Claudio. E o seu? :man_technologist:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 <ul>

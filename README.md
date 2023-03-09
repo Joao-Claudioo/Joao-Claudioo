@@ -24,25 +24,6 @@
     </p>
    </li>
  </ul>
- 
- <div>
-  <a href="https://github.com/Joao-Claudioo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Claudioo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Claudioo&layout=compact&langs_count=7&theme=default"/>
-</div>
-<div>
-  <h3> Front-end </h3>
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
- <img align="center" alt="bootstrp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="right" alt="bad" width="100px" src="https://cdn.discordapp.com/attachments/877043925649604631/877695275857231932/5k1ngw.gif">
-</div>
- 
-<div>
-<h3> Desenvolvimento Mobile </h3>  
-<img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-</div>
   
 <h3> IDE </h3>  
  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
@@ -67,7 +48,6 @@
 - JavaScript
 - JavaWeb
 - Flutter
-- C 
   
 📚Estudos futuros:
 - C++

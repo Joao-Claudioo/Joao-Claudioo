@@ -2,6 +2,8 @@
 
 [![Jão Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Claudioo)](https://github.com/Joao-Claudioo/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ##
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 <ul>

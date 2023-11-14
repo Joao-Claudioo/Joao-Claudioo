@@ -12,7 +12,7 @@
   </li>
   <li>
     <p>
-      ✨ Amo tecnologia desde pequeno, inicie na programação por volta de 2019.
+      ✨ Estudo para concurso na área da TI. Ja obtive algumas aprovações como CANOATEC 2° lugar, PROCERGS reprovado, COREN RS reprovado.
     </p>
   </li>
   <li>

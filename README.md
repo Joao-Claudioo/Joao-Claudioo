@@ -8,23 +8,17 @@
   <li>
     <p>
       💻 Formado em Técnico em Informática para Internet.
+          Cursando Ciência da Computação - UNISINOS.
     </p>
   </li>
   <li>
     <p>
-      ✨ Estudo para concurso na área da TI. Ja obtive algumas aprovações como CANOATEC 2° lugar, PROCERGS reprovado, COREN RS reprovado.
+      ✨ Estudo para concursos na área da TI, já obtive algumas aprovações e reprovações:
+          PROCERGS - ANALISTA EM COMPUTAÇÃO ÊNFASE EM PROGRAMAÇÃO DE SISTEMAS NA TECNOLOGIA MICROSOFT - reprovado por uma questão.
+          COREN RS - TÉCNICO EM INFORMÁTICA - reprovado, não era meu foco.
+          CANOASTEC - Técnico em Infraestrutura de Tecnologia  da Informação e Comunicação 2° lugar (aguardando seguimento do concurso)
     </p>
   </li>
-  <li>
-    <p>
-      📖 Meu atual foco é Front-end e depois de dominá-lo pretendo partir para Back-end, para que eu me torne Full-stack.
-    </p>
-  </li>
-  <li>
-    <p>
-      🍃 Espero que meus objetivos, e os seus, estejam firmes e se ajustem bem conforme a caminhada, até mais!
-    </p>
-   </li>
  </ul>
   
 <h3> IDE </h3>  
